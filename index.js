@@ -293,7 +293,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("img");
-  ifrm.setAttribute("src", "g2.jpg");
+  ifrm.setAttribute("src", "bday-773.gif");
   ifrm.style.border = 'none';
   document.querySelector('#video').appendChild(ifrm);
 }
